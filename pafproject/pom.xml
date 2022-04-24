@@ -30,7 +30,7 @@
                     <port>8080</port>
                 </configuration>
                 <dependencies>
-                    <dependency
+                    <dependency>
                         <groupId>com.sun.jersey</groupId>
                         <artifactId>jersey-servlet</artifactId>
                         <version>${project.version}</version>
