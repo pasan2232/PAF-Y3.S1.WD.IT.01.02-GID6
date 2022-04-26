@@ -14,7 +14,7 @@ public class Payment { // A common method to connect to the DB
 			e.printStackTrace();
 		}
 		return con;
-	}
+	
 
 	
 	
