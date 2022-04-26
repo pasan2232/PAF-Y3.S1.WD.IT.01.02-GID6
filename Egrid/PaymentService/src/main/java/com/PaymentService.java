@@ -27,7 +27,7 @@ public class PaymentService
 	
 	
 	
-	
+	@POST
 	@Path("/")
 	@Consumes(MediaType.APPLICATION_FORM_URLENCODED)
 	@Produces(MediaType.TEXT_PLAIN)
