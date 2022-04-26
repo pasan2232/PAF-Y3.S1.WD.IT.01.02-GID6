@@ -15,7 +15,7 @@ public class Payment { // A common method to connect to the DB
 		}
 		return con;
 	
-
+	}
 	
 	
 	
